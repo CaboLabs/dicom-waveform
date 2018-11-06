@@ -1,0 +1,325 @@
+<dicom>
+    <attr len="4" tag="00020000" vr="UL">174</attr>
+    <attr len="2" tag="00020001" vr="OB">00\01</attr>
+    <attr len="30" tag="00020002" vr="UI">1.2.840.10008.5.1.4.1.1.9.1.1</attr>
+    <attr len="42" tag="00020003" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000..1</attr>
+    <attr len="20" tag="00020010" vr="UI">1.2.840.10008.1.2.1</attr>
+    <attr len="16" tag="00020012" vr="UI">1.2.40.0.13.1.1</attr>
+    <attr len="12" tag="00020013" vr="SH">dcm4che-2.0</attr>
+    <attr len="8" tag="00080012" vr="DA">20080912</attr>
+    <attr len="10" tag="00080013" vr="TM">145602.843</attr>
+    <attr len="30" tag="00080016" vr="UI">1.2.840.10008.5.1.4.1.1.9.1.1</attr>
+    <attr len="42" tag="00080018" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000..1</attr>
+    <attr len="8" tag="00080020" vr="DA">20021122</attr>
+    <attr len="8" tag="00080023" vr="DA">20021122</attr>
+    <attr len="14" tag="0008002A" vr="DT">20021122091000</attr>
+    <attr len="6" tag="00080030" vr="TM">091000</attr>
+    <attr len="6" tag="00080033" vr="TM">091000</attr>
+    <attr len="0" tag="00080050" vr="SH"/>
+    <attr len="4" tag="00080060" vr="CS">ECG</attr>
+    <attr len="8" tag="00080070" vr="LO">Unknown</attr>
+    <attr len="0" tag="00080090" vr="PN"/>
+    <attr len="0" tag="00081060" vr="PN"/>
+    <attr len="0" tag="00081070" vr="PN"/>
+    <attr len="6" tag="00081090" vr="LO">ELI250</attr>
+    <attr len="6" tag="00100010" vr="PN">Clark</attr>
+    <attr len="8" tag="00100020" vr="LO">SBJ-123</attr>
+    <attr len="8" tag="00100030" vr="DA">19530508</attr>
+    <attr len="2" tag="00100040" vr="CS">M</attr>
+    <attr len="0" tag="00101000" vr="LO"/>
+    <attr len="0" tag="00101010" vr="AS"/>
+    <attr len="0" tag="00101020" vr="DS"/>
+    <attr len="0" tag="00101030" vr="DS"/>
+    <attr len="0" tag="00181000" vr="LO"/>
+    <attr len="0" tag="00181020" vr="LO"/>
+    <attr len="40" tag="0020000D" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000.</attr>
+    <attr len="42" tag="0020000E" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000..2</attr>
+    <attr len="0" tag="00200010" vr="SH"/>
+    <attr len="2" tag="00200011" vr="IS">1</attr>
+    <attr len="2" tag="00200013" vr="IS">1</attr>
+    <attr len="0" tag="00200060" vr="CS"/>
+    <attr len="0" tag="00380300" vr="LO"/>
+    <attr len="0" tag="00380400" vr="LO"/>
+    <attr len="0" tag="00384000" vr="LT"/>
+    <attr len="-1" tag="00400555" vr="SQ">
+        <item len="-1" off="870">
+            <attr len="4" tag="0040A040" vr="CS">CODE</attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="902">
+                    <attr len="10" tag="00080100" vr="SH">5.4.5-33-1</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="20" tag="00080104" vr="LO">Electrode Placement</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A168" vr="SQ">
+                <item len="-1" off="1010">
+                    <attr len="12" tag="00080100" vr="SH">5.4.5-33-1-0</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="12" tag="00080104" vr="LO">Unspecified</attr>
+                </item>
+            </attr>
+        </item>
+    </attr>
+    <attr len="0" tag="00401002" vr="LO"/>
+    <attr len="-1" tag="0040B020" vr="SQ">
+        <item len="-1" off="1136">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1156">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1246">
+                    <attr len="8" tag="00080100" vr="SH">5.13.5-7</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="12" tag="00080104" vr="LO">PR Interval</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="4" tag="0040A30A" vr="DS">148</attr>
+        </item>
+        <item len="-1" off="1374">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1394">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1484">
+                    <attr len="8" tag="00080100" vr="SH">5.13.5-9</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="12" tag="00080104" vr="LO">QRS Duration</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="4" tag="0040A30A" vr="DS">120</attr>
+        </item>
+        <item len="-1" off="1612">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1632">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1722">
+                    <attr len="10" tag="00080100" vr="SH">5.13.5-11</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="12" tag="00080104" vr="LO">QT Interval</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="4" tag="0040A30A" vr="DS">420</attr>
+        </item>
+        <item len="-1" off="1852">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1872">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1962">
+                    <attr len="10" tag="00080100" vr="SH">5.10.2.5-5</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="12" tag="00080104" vr="LO">QTc Interval</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="4" tag="0040A30A" vr="DS">443</attr>
+        </item>
+        <item len="-1" off="2092">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="2112">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2202">
+                    <attr len="10" tag="00080100" vr="SH">5.10.3-11</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="6" tag="00080104" vr="LO">P Axis</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="2" tag="0040A30A" vr="DS">44</attr>
+        </item>
+        <item len="-1" off="2324">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="2344">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2434">
+                    <attr len="10" tag="00080100" vr="SH">5.10.3-13</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="8" tag="00080104" vr="LO">QRS Axis</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="4" tag="0040A30A" vr="DS">-61</attr>
+        </item>
+        <item len="-1" off="2560">
+            <attr len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="2580">
+                    <attr len="2" tag="00080100" vr="SH">ms</attr>
+                    <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                    <attr len="12" tag="00080104" vr="LO">milliseconds</attr>
+                </item>
+            </attr>
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2670">
+                    <attr len="10" tag="00080100" vr="SH">5.10.3-15</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="8" tag="00080104" vr="LO">QRS Axis</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="2" tag="0040A180" vr="US">0</attr>
+            <attr len="2" tag="0040A30A" vr="DS">86</attr>
+        </item>
+        <item len="-1" off="2794">
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2814">
+                    <attr len="8" tag="00080100" vr="SH">5.10.3-1</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="8" tag="00080104" vr="LO">P onset</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="6" tag="0040A130" vr="CS">POINT</attr>
+            <attr len="4" tag="0040A132" vr="UL">143</attr>
+            <attr len="2" tag="0040A180" vr="US">1</attr>
+        </item>
+        <item len="-1" off="2952">
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2972">
+                    <attr len="8" tag="00080100" vr="SH">5.10.3-2</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="8" tag="00080104" vr="LO">P offset</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="6" tag="0040A130" vr="CS">POINT</attr>
+            <attr len="4" tag="0040A132" vr="UL">194</attr>
+            <attr len="2" tag="0040A180" vr="US">1</attr>
+        </item>
+        <item len="-1" off="3110">
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="3130">
+                    <attr len="8" tag="00080100" vr="SH">5.10.3-3</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="10" tag="00080104" vr="LO">QRS onset</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="6" tag="0040A130" vr="CS">POINT</attr>
+            <attr len="4" tag="0040A132" vr="UL">217</attr>
+            <attr len="2" tag="0040A180" vr="US">1</attr>
+        </item>
+        <item len="-1" off="3270">
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="3290">
+                    <attr len="8" tag="00080100" vr="SH">5.10.3-4</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="10" tag="00080104" vr="LO">QRS offset</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="6" tag="0040A130" vr="CS">POINT</attr>
+            <attr len="4" tag="0040A132" vr="UL">277</attr>
+            <attr len="2" tag="0040A180" vr="US">1</attr>
+        </item>
+        <item len="-1" off="3430">
+            <attr len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="3450">
+                    <attr len="8" tag="00080100" vr="SH">5.10.3-5</attr>
+                    <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                    <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                    <attr len="8" tag="00080104" vr="LO">T offset</attr>
+                </item>
+            </attr>
+            <attr len="4" tag="0040A0B0" vr="US">1\0</attr>
+            <attr len="6" tag="0040A130" vr="CS">POINT</attr>
+            <attr len="4" tag="0040A132" vr="UL">427</attr>
+            <attr len="2" tag="0040A180" vr="US">1</attr>
+        </item>
+    </attr>
+    <attr len="-1" tag="54000100" vr="SQ">
+        <item len="-1" off="3608">
+            <attr len="2" tag="00181068" vr="DS">0</attr>
+            <attr len="2" tag="00181069" vr="DS">0</attr>
+            <attr len="8" tag="003A0004" vr="CS">ORIGINAL</attr>
+            <attr len="2" tag="003A0005" vr="US">1</attr>
+            <attr len="4" tag="003A0010" vr="UL">4999</attr>
+            <attr len="4" tag="003A001A" vr="DS">500</attr>
+            <attr len="6" tag="003A0020" vr="SH">RHYTHM</attr>
+            <attr len="-1" tag="003A0200" vr="SQ">
+                <item len="-1" off="3712">
+                    <attr len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="3732">
+                            <attr len="10" tag="00080100" vr="SH">5.6.3-9-1</attr>
+                            <attr len="6" tag="00080102" vr="SH">SCPECG</attr>
+                            <attr len="4" tag="00080103" vr="SH">1.3</attr>
+                            <attr len="6" tag="00080104" vr="LO">Lead I</attr>
+                        </item>
+                    </attr>
+                    <attr len="4" tag="003A0210" vr="DS">2.5</attr>
+                    <attr len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="3838">
+                            <attr len="2" tag="00080100" vr="SH">uV</attr>
+                            <attr len="4" tag="00080102" vr="SH">UCUM</attr>
+                            <attr len="4" tag="00080103" vr="SH">1.4</attr>
+                            <attr len="10" tag="00080104" vr="LO">microvolt</attr>
+                        </item>
+                    </attr>
+                    <attr len="2" tag="003A0212" vr="DS">1</attr>
+                    <attr len="2" tag="003A0213" vr="DS">0</attr>
+                    <attr len="2" tag="003A0215" vr="DS">0</attr>
+                    <attr len="2" tag="003A021A" vr="US">16</attr>
+                </item>
+            </attr>
+            <attr len="2" tag="54001004" vr="US">16</attr>
+            <attr len="2" tag="54001006" vr="CS">SS</attr>
+            <attr len="2" tag="5400100A" vr="OW">32768</attr>
+            <attr len="9998" tag="54001010" vr="OW">65534\65527\65529\65534\65531\3\7\23\35\0\65528\65530\65487\65534\127\7\65530\65535\65528\65532\65533\8\65533\65535\65525\65528\65519\65523\65524\65521\65523\65524\65524\65524\65528\65533\65520\65522\11\4\4\3\65528\65507\65521\65442\65534\56\65501\65497\65483\65508\65481\65480\65511\65519\65480\65478\65500\65480\65492\65480\65519\65493\65511\65529\65522\65517\65521\65522\65532\65528\3\13\34\29\18\0\65527\65478\73\77\19\13\45\33\19\29\22\27\11\15\15\6\24\7\17\15\26\11\13\15\12\27\25\9\25\17\29\44\53\22\24\9\65506\51\113\23\29\19\24\18\17\28\18\14\19\10\5\7\9\19\14\65531\5\4\8\6\65535\14\25\2\14\12\7\24\65531\65526\65510\65460\65453\65425\57\65500\65480\65474\65481\65484\65492\65494\65498\65507\65513\65513\65513\65508\65510\65518\65522\65531\65531\65525\65519\65526\65520\65527\65526\65525\65525\65529\65534\9\24\25\65524\65526\65522\65462\50\75\65531\65526\65527\65531\65535\65535\6\4\65533\65530\65527\65522\65529\65522\65529\65528\65526\0\65525\65533\65527\65529\65530\65524\65530\65531\12\20\28\65535\65529\65525\65472\41\75\3\65534\65531\65535\65528\65534\8\11\4\0\65524\65524\65529\65529\65531\65527\65532\65529\65531\65534\65535\65535\0\3\65534\1\6\8\26\34\34\2\4\65535\65474\59\66\3\2\2\1\3\8\10\10\9\2\65534\65529\65534\65533\0\3\65532\7\65535\1\0\1\0\1\1\4\1\22\35\27\65532\65531\65520\65469\83\34\2\65533\65532\65535\4\6\5\7\0\4\65528\65526\65530\65531\65533\65533\65531\65531\65525\65530\65529\65529\65531\65528\0\65530\14\22\14\65526\65520\65510\65469\92\11\65532\65527\65528\65530\65533\65528\65532\65530\65527\65529\65522\65516\65524\65525\65523\65533\65534\65529\65525\65527\65524\65532\65531\65535\0\14\30\19\65535\65527\65525\65470\74\47\6\65534\65528\3\2\1\6\0\4\4\65526\65524\65528\65527\65527\65529\65534\65534\65531\65528\1\65530\2\5\24\37\3\65526\65528\65494\65518\132\10\65532\65533\65523\65533\65533\4\65533\65533\65526\65526\65521\65523\65522\65523\65523\65518\65525</attr>
+        </item>
+    </attr>
+</dicom>

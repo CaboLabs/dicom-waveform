@@ -1,0 +1,869 @@
+<dicom>
+    <tag00020000 len="4" tag="00020000" vr="UL">174</tag00020000>
+    <tag00020001 len="2" tag="00020001" vr="OB">00\01</tag00020001>
+    <tag00020002 len="30" tag="00020002" vr="UI">1.2.840.10008.5.1.4.1.1.9.1.1</tag00020002>
+    <tag00020003 len="42" tag="00020003" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000..1</tag00020003>
+    <tag00020010 len="20" tag="00020010" vr="UI">1.2.840.10008.1.2.1</tag00020010>
+    <tag00020012 len="16" tag="00020012" vr="UI">1.2.40.0.13.1.1</tag00020012>
+    <tag00020013 len="12" tag="00020013" vr="SH">dcm4che-2.0</tag00020013>
+    <tag00080012 len="8" tag="00080012" vr="DA">20080912</tag00080012>
+    <tag00080013 len="10" tag="00080013" vr="TM">145602.843</tag00080013>
+    <tag00080016 len="30" tag="00080016" vr="UI">1.2.840.10008.5.1.4.1.1.9.1.1</tag00080016>
+    <tag00080018 len="42" tag="00080018" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000..1</tag00080018>
+    <tag00080020 len="8" tag="00080020" vr="DA">20021122</tag00080020>
+    <tag00080023 len="8" tag="00080023" vr="DA">20021122</tag00080023>
+    <tag0008002A len="14" tag="0008002A" vr="DT">20021122091000</tag0008002A>
+    <tag00080030 len="6" tag="00080030" vr="TM">091000</tag00080030>
+    <tag00080033 len="6" tag="00080033" vr="TM">091000</tag00080033>
+    <tag00080050 len="0" tag="00080050" vr="SH"/>
+    <tag00080060 len="4" tag="00080060" vr="CS">ECG</tag00080060>
+    <tag00080070 len="8" tag="00080070" vr="LO">Unknown</tag00080070>
+    <tag00080090 len="0" tag="00080090" vr="PN"/>
+    <tag00081060 len="0" tag="00081060" vr="PN"/>
+    <tag00081070 len="0" tag="00081070" vr="PN"/>
+    <tag00081090 len="6" tag="00081090" vr="LO">ELI250</tag00081090>
+    <tag00100010 len="6" tag="00100010" vr="PN">Clark</tag00100010>
+    <tag00100020 len="8" tag="00100020" vr="LO">SBJ-123</tag00100020>
+    <tag00100030 len="8" tag="00100030" vr="DA">19530508</tag00100030>
+    <tag00100040 len="2" tag="00100040" vr="CS">M</tag00100040>
+    <tag00101000 len="0" tag="00101000" vr="LO"/>
+    <tag00101010 len="0" tag="00101010" vr="AS"/>
+    <tag00101020 len="0" tag="00101020" vr="DS"/>
+    <tag00101030 len="0" tag="00101030" vr="DS"/>
+    <tag00181000 len="0" tag="00181000" vr="LO"/>
+    <tag00181020 len="0" tag="00181020" vr="LO"/>
+    <tag0020000D len="40" tag="0020000D" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000.</tag0020000D>
+    <tag0020000E len="42" tag="0020000E" vr="UI">1.2.826.0.1.34471.2.44.6.20021122091000..2</tag0020000E>
+    <tag00200010 len="0" tag="00200010" vr="SH"/>
+    <tag00200011 len="2" tag="00200011" vr="IS">1</tag00200011>
+    <tag00200013 len="2" tag="00200013" vr="IS">1</tag00200013>
+    <tag00200060 len="0" tag="00200060" vr="CS"/>
+    <tag00380300 len="0" tag="00380300" vr="LO"/>
+    <tag00380400 len="0" tag="00380400" vr="LO"/>
+    <tag00384000 len="0" tag="00384000" vr="LT"/>
+    <tag00400555 len="-1" tag="00400555" vr="SQ">
+        <item len="-1" off="870">
+            <tag0040A040 len="4" tag="0040A040" vr="CS">CODE</tag0040A040>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="902">
+                    <tag00080100 len="10" tag="00080100" vr="SH">5.4.5-33-1</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="20" tag="00080104" vr="LO">Electrode Placement</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A168 len="-1" tag="0040A168" vr="SQ">
+                <item len="-1" off="1010">
+                    <tag00080100 len="12" tag="00080100" vr="SH">5.4.5-33-1-0</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">Unspecified</tag00080104>
+                </item>
+            </tag0040A168>
+        </item>
+    </tag00400555>
+    <tag00401002 len="0" tag="00401002" vr="LO"/>
+    <tag0040B020 len="-1" tag="0040B020" vr="SQ">
+        <item len="-1" off="1136">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1156">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1246">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.13.5-7</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">PR Interval</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="4" tag="0040A30A" vr="DS">148</tag0040A30A>
+        </item>
+        <item len="-1" off="1374">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1394">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1484">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.13.5-9</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">QRS Duration</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="4" tag="0040A30A" vr="DS">120</tag0040A30A>
+        </item>
+        <item len="-1" off="1612">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1632">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1722">
+                    <tag00080100 len="10" tag="00080100" vr="SH">5.13.5-11</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">QT Interval</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="4" tag="0040A30A" vr="DS">420</tag0040A30A>
+        </item>
+        <item len="-1" off="1852">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="1872">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="1962">
+                    <tag00080100 len="10" tag="00080100" vr="SH">5.10.2.5-5</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">QTc Interval</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="4" tag="0040A30A" vr="DS">443</tag0040A30A>
+        </item>
+        <item len="-1" off="2092">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="2112">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2202">
+                    <tag00080100 len="10" tag="00080100" vr="SH">5.10.3-11</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="6" tag="00080104" vr="LO">P Axis</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="2" tag="0040A30A" vr="DS">44</tag0040A30A>
+        </item>
+        <item len="-1" off="2324">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="2344">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2434">
+                    <tag00080100 len="10" tag="00080100" vr="SH">5.10.3-13</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="8" tag="00080104" vr="LO">QRS Axis</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="4" tag="0040A30A" vr="DS">-61</tag0040A30A>
+        </item>
+        <item len="-1" off="2560">
+            <tag004008EA len="-1" tag="004008EA" vr="SQ">
+                <item len="-1" off="2580">
+                    <tag00080100 len="2" tag="00080100" vr="SH">ms</tag00080100>
+                    <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                    <tag00080104 len="12" tag="00080104" vr="LO">milliseconds</tag00080104>
+                </item>
+            </tag004008EA>
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2670">
+                    <tag00080100 len="10" tag="00080100" vr="SH">5.10.3-15</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="8" tag="00080104" vr="LO">QRS Axis</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A180 len="2" tag="0040A180" vr="US">0</tag0040A180>
+            <tag0040A30A len="2" tag="0040A30A" vr="DS">86</tag0040A30A>
+        </item>
+        <item len="-1" off="2794">
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2814">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.10.3-1</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="8" tag="00080104" vr="LO">P onset</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A130 len="6" tag="0040A130" vr="CS">POINT</tag0040A130>
+            <tag0040A132 len="4" tag="0040A132" vr="UL">143</tag0040A132>
+            <tag0040A180 len="2" tag="0040A180" vr="US">1</tag0040A180>
+        </item>
+        <item len="-1" off="2952">
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="2972">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.10.3-2</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="8" tag="00080104" vr="LO">P offset</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A130 len="6" tag="0040A130" vr="CS">POINT</tag0040A130>
+            <tag0040A132 len="4" tag="0040A132" vr="UL">194</tag0040A132>
+            <tag0040A180 len="2" tag="0040A180" vr="US">1</tag0040A180>
+        </item>
+        <item len="-1" off="3110">
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="3130">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.10.3-3</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="10" tag="00080104" vr="LO">QRS onset</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A130 len="6" tag="0040A130" vr="CS">POINT</tag0040A130>
+            <tag0040A132 len="4" tag="0040A132" vr="UL">217</tag0040A132>
+            <tag0040A180 len="2" tag="0040A180" vr="US">1</tag0040A180>
+        </item>
+        <item len="-1" off="3270">
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="3290">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.10.3-4</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="10" tag="00080104" vr="LO">QRS offset</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A130 len="6" tag="0040A130" vr="CS">POINT</tag0040A130>
+            <tag0040A132 len="4" tag="0040A132" vr="UL">277</tag0040A132>
+            <tag0040A180 len="2" tag="0040A180" vr="US">1</tag0040A180>
+        </item>
+        <item len="-1" off="3430">
+            <tag0040A043 len="-1" tag="0040A043" vr="SQ">
+                <item len="-1" off="3450">
+                    <tag00080100 len="8" tag="00080100" vr="SH">5.10.3-5</tag00080100>
+                    <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                    <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                    <tag00080104 len="8" tag="00080104" vr="LO">T offset</tag00080104>
+                </item>
+            </tag0040A043>
+            <tag0040A0B0 len="4" tag="0040A0B0" vr="US">1\0</tag0040A0B0>
+            <tag0040A130 len="6" tag="0040A130" vr="CS">POINT</tag0040A130>
+            <tag0040A132 len="4" tag="0040A132" vr="UL">427</tag0040A132>
+            <tag0040A180 len="2" tag="0040A180" vr="US">1</tag0040A180>
+        </item>
+    </tag0040B020>
+    <tag54000100 len="-1" tag="54000100" vr="SQ">
+        <item len="-1" off="3608">
+            <tag00181068 len="2" tag="00181068" vr="DS">0</tag00181068>
+            <tag00181069 len="2" tag="00181069" vr="DS">0</tag00181069>
+            <tag003A0004 len="8" tag="003A0004" vr="CS">ORIGINAL</tag003A0004>
+            <tag003A0005 len="2" tag="003A0005" vr="US">12</tag003A0005>
+            <tag003A0010 len="4" tag="003A0010" vr="UL">4999</tag003A0010>
+            <tag003A001A len="4" tag="003A001A" vr="DS">500</tag003A001A>
+            <tag003A0020 len="6" tag="003A0020" vr="SH">RHYTHM</tag003A0020>
+            <tag003A0200 len="-1" tag="003A0200" vr="SQ">
+                <item len="-1" off="3712">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="3732">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-1</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="6" tag="00080104" vr="LO">Lead I</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="3838">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="3962">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="3982">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-2</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead II</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="4090">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="4214">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="4234">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-61</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead III</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="4342">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="4466">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="4486">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-62</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead aVR</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="4594">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="4718">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="4738">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-63</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead aVL</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="4846">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="4970">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="4990">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-64</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead aVF</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="5098">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="5222">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="5242">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-3</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V1</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="5350">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="5474">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="5494">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-4</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V2</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="5602">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="5726">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="5746">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-5</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V3</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="5854">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="5978">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="5998">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-6</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V4</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="6106">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="6230">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="6250">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-7</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V5</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="6358">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="6482">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="6502">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-8</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V6</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="6610">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+            </tag003A0200>
+            <tag54001004 len="2" tag="54001004" vr="US">16</tag54001004>
+            <tag54001006 len="2" tag="54001006" vr="CS">SS</tag54001006>
+            <tag5400100A len="2" tag="5400100A" vr="OW">32768</tag5400100A>
+            <tag54001010 len="119976" tag="54001010" vr="OW">.........</tag54001010>
+        </item>
+        <item len="-1" off="126772">
+            <tag00181068 len="2" tag="00181068" vr="DS">0</tag00181068>
+            <tag00181069 len="2" tag="00181069" vr="DS">0</tag00181069>
+            <tag0018106E len="4" tag="0018106E" vr="UL">0</tag0018106E>
+            <tag003A0004 len="8" tag="003A0004" vr="CS">DERIVED</tag003A0004>
+            <tag003A0005 len="2" tag="003A0005" vr="US">12</tag003A0005>
+            <tag003A0010 len="4" tag="003A0010" vr="UL">599</tag003A0010>
+            <tag003A001A len="4" tag="003A001A" vr="DS">500</tag003A001A>
+            <tag003A0020 len="12" tag="003A0020" vr="SH">MEDIAN BEAT</tag003A0020>
+            <tag003A0200 len="-1" tag="003A0200" vr="SQ">
+                <item len="-1" off="126894">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="126914">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-1</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="6" tag="00080104" vr="LO">Lead I</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="127020">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="127144">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="127164">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-2</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead II</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="127272">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="127396">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="127416">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-61</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead III</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="127524">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="127648">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="127668">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-62</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead aVR</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="127776">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="127900">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="127920">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-63</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead aVL</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="128028">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="128152">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="128172">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-64</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead aVF</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="128280">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="128404">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="128424">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-3</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V1</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="128532">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="128656">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="128676">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-4</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V2</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="128784">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="128908">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="128928">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-5</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V3</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="129036">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="129160">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="129180">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-6</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V4</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="129288">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="129412">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="129432">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-7</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V5</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="129540">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+                <item len="-1" off="129664">
+                    <tag003A0208 len="-1" tag="003A0208" vr="SQ">
+                        <item len="-1" off="129684">
+                            <tag00080100 len="10" tag="00080100" vr="SH">5.6.3-9-8</tag00080100>
+                            <tag00080102 len="6" tag="00080102" vr="SH">SCPECG</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.3</tag00080103>
+                            <tag00080104 len="8" tag="00080104" vr="LO">Lead V6</tag00080104>
+                        </item>
+                    </tag003A0208>
+                    <tag003A0210 len="4" tag="003A0210" vr="DS">2.5</tag003A0210>
+                    <tag003A0211 len="-1" tag="003A0211" vr="SQ">
+                        <item len="-1" off="129792">
+                            <tag00080100 len="2" tag="00080100" vr="SH">uV</tag00080100>
+                            <tag00080102 len="4" tag="00080102" vr="SH">UCUM</tag00080102>
+                            <tag00080103 len="4" tag="00080103" vr="SH">1.4</tag00080103>
+                            <tag00080104 len="10" tag="00080104" vr="LO">microvolt</tag00080104>
+                        </item>
+                    </tag003A0211>
+                    <tag003A0212 len="2" tag="003A0212" vr="DS">1</tag003A0212>
+                    <tag003A0213 len="2" tag="003A0213" vr="DS">0</tag003A0213>
+                    <tag003A0215 len="2" tag="003A0215" vr="DS">0</tag003A0215>
+                    <tag003A021A len="2" tag="003A021A" vr="US">16</tag003A021A>
+                </item>
+            </tag003A0200>
+            <tag54001004 len="2" tag="54001004" vr="US">16</tag54001004>
+            <tag54001006 len="2" tag="54001006" vr="CS">SS</tag54001006>
+            <tag54001010 len="14376" tag="54001010" vr="OW">.........</tag54001010>
+        </item>
+    </tag54000100>
+</dicom>

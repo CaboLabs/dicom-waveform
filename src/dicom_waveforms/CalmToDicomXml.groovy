@@ -1,5 +1,13 @@
 package dicom_waveforms
 
+/**
+ * @author Pablo Pazos <pablo.pazos@cabolabs.com>
+ *
+ * LICENSE: do whatever you want, just keep attribution of original author.
+ *
+ * $ groovy -cp "./dcm4che-2.0.29/lib/*" src/dicom_waveforms/CalToDicomXml.groovy
+ *
+ */
 class CalmToDicomXml {
 
    static float CALM_CHANNEL_SENSIT = 0.732421875
@@ -8,7 +16,7 @@ class CalmToDicomXml {
    {
       if (args.size() < 2)
       {
-         println 'Usage: groovy -cp "./lib/*" src/dicom_waveforms/CalmToDicomXml.groovy input_file output_file'
+         println 'Usage: groovy -cp "./dcm4che-2.0.29/lib/*" src/dicom_waveforms/CalmToDicomXml.groovy input_file output_file'
          return
       }
 

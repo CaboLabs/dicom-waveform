@@ -73,6 +73,6 @@ Finally:
 Requirements:
 
 1. [Groovy Lang](https://groovy-lang.org/)
-2. DCM4CHEE (included in the repo)
+2. DCM4CHE (included in the repo)
 
 There is no need to compile the scripts to run them, since they run directly from the groovy command. Though, if you want to reuse the code, you might want to compile so you can use the .jar in your project.

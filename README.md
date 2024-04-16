@@ -15,11 +15,11 @@ Glossary:
 
 ## The problem
 
-We were working with a client on cardiac rehabilitation of patients that had heart problems and treatments like surgeries. Rehabilitation consisted on providing physical therapy to patients, alongside with monitoring. Monitoring was done during physical therapy sessions, and the therapist could monitor the patient's heart in real time by using a custom built app on an Android tablet. Initially the device used for monitoring was a one lead wearable ECG, with the posibility of switching to a 12 lead device in the future, for a more complete view of the heart functioning during therapy.
+We were working with a client on cardiac rehabilitation of patients that had heart problems and treatments like surgeries. Rehabilitation consisted on providing physical therapy to patients, alongside with monitoring. Monitoring was done during physical therapy sessions, and the therapist could monitor the patient's heart in real time by using a custom built app on an Android tablet. Initially the device used for monitoring was a one lead wearable ECG, with the possibility of switching to a 12 lead device in the future, for a more complete view of the heart functioning during therapy.
 
 The problem was the device output was a raw custom series of data, an even if the mobile app could just display the data for the clinician, our client wanted to store that data in the clinic/hospital for future reference, and the storage should be standard, not in a custom format defined by the device vendor.
 
-We sugested to use DICOM Waveform, since that format is an international standard and specialized on ECG data. Now the problem was to translate the raw format we got from the device into a valid DICOM Waveform object.
+We suggested to use DICOM Waveform, since that format is an international standard and specialized on ECG data. Now the problem was to translate the raw format we got from the device into a valid DICOM Waveform object.
 
 For this, we analyzed the DICOM standard and some samples of DICOM Waveform files (note that these files could contain other types of data that are also waveforms, like sound). Then we created a template in XML format that we can use to manipulate the DICOM object in memory and then encode as a DICOM binary object (DICOM objects are binary, but it's more complex to handle binary objects in memory than using a common text format like XML).
 
